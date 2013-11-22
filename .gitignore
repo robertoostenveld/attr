@@ -1,3 +1,7 @@
+# MATLAB bak files
+*.m~
+*.bak
+
 # Object files
 *.o
 *.ko
