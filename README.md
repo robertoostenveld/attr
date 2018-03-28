@@ -1,4 +1,4 @@
 attr
 ====
 
-extended file attributes in MATLAB
+Get, set, list and remove extended file attributes using MATLAB mex files.
